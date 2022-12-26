@@ -1,0 +1,8 @@
+C:\C#_Project\C-Sharp_Gamedevelop_basic\CSharp_game\bin\Debug\CSharp_game.exe.config
+C:\C#_Project\C-Sharp_Gamedevelop_basic\CSharp_game\bin\Debug\CSharp_game.exe
+C:\C#_Project\C-Sharp_Gamedevelop_basic\CSharp_game\bin\Debug\CSharp_game.pdb
+C:\C#_Project\C-Sharp_Gamedevelop_basic\CSharp_game\obj\Debug\CSharp_game.csproj.AssemblyReference.cache
+C:\C#_Project\C-Sharp_Gamedevelop_basic\CSharp_game\obj\Debug\CSharp_game.csproj.SuggestedBindingRedirects.cache
+C:\C#_Project\C-Sharp_Gamedevelop_basic\CSharp_game\obj\Debug\CSharp_game.csproj.CoreCompileInputs.cache
+C:\C#_Project\C-Sharp_Gamedevelop_basic\CSharp_game\obj\Debug\CSharp_game.exe
+C:\C#_Project\C-Sharp_Gamedevelop_basic\CSharp_game\obj\Debug\CSharp_game.pdb
